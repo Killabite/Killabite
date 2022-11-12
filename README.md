@@ -1,5 +1,5 @@
 # Killabite
-Welcome to my Git Profile. I code on the side, and I am pursuing a career in **Cybersecurity**
+Welcome to my Github Profile. I code on the side, and I am pursuing a career in **Cybersecurity**
 ## Goals
 - Enter the cybersecurity field through an entry level job
 - Obtain a Computer Science **degree** with a concentration in **Cybersecurity**
