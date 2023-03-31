@@ -7,9 +7,6 @@ Welcome to my Github Profile. I code on the side, and I am pursuing a career in 
 - Earn my Security+ by the time I graduate high school. 
 - Post multiple large projects on github during my college career
 ## Experience
-- Four years of Computer Science coursework in high school
 - CyberPatriot Team Captain for competitions XIV and XV (2021-2023)
-- UIL Computer Science competitor
-- Java, JS, HTML, CSS. 
-
-
+- UIL Computer Science Team Captain, Regional Qualifying Team
+- Java, JS, HTML, CSS, Bash scripting, Powershell.
